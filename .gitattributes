@@ -1,0 +1,2 @@
+# 同事可能是 macOS / Linux，脚本统一用 LF，避免 CRLF 造成的问题
+* text=auto eol=lf
